@@ -2,7 +2,8 @@
 
 **Bring the intranet on the internet**
 
->Omniedge's Peer-to-Peer and Zero-Config Layer 2 VPN solutions are not only a great and affordable network solution for a small team but also for big companies with thousands of computers all around the world. What happens in intranet, stays in in intranet.
+OmniEdge is an Open source p2p layer 2 VPN infrastructure, a traditional VPN alternative. No central server, easy to scale with less maintenance. What happens in intranet, stays in in intranet.
+
 
 <!-- [![Build Status]() -->
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
