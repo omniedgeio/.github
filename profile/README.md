@@ -15,6 +15,3 @@ The Source Code of OmniEdge: https://github.com/omniedgeio/omniedge
 
 ![OmniEdge-clients](https://github.com/omniedgeio/omniedge/blob/main/OmniEdge-clients.png?raw=true)
 
-----
-
-If you have more questions, feel free to [contact us](support@omniedge.io).
