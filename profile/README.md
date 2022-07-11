@@ -11,7 +11,7 @@ OmniEdge is an Open source p2p layer 2 VPN infrastructure, a traditional VPN alt
 Chat with us: [🤝 Website](https://omniedge.io) [💬 Twitter](https://twitter.com/omniedgeio) [😇 Discord](https://discord.gg/d4faRPYj)
 
 
-The Source Code of OmniEdge Apps: https://github.com/omniedgeio/omniedge
+The Source Code of OmniEdge: https://github.com/omniedgeio/omniedge
 
 ![OmniEdge-clients](https://github.com/omniedgeio/omniedge/blob/main/OmniEdge-clients.png?raw=true)
 
